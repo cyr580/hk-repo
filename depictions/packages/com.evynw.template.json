@@ -1,0 +1,25 @@
+{
+	"name": "Test Package",
+	"package": "com.evynw.testpackage",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"description": "<div>Test description<br><br>Test description 2</div>",
+	"dependency": "XenInfo",
+  	"minOSVersion": "9.0",
+  	"maxOSVersion": "10.0",
+  	"otheriOS": "untested",
+	"changelog": {
+		"1.0": [
+			"Initial release"
+		],
+		"1.0-1": [
+			"Fixed issue 1",
+			"Fixed issue 2"
+		]
+	},
+	"screenshots": {
+		"1.jpg": "",
+		"2.jpg": "screenshot description"
+	},
+	"links": {}
+}
